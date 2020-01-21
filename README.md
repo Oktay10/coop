@@ -1,5 +1,3 @@
-#CRISTIANI Vincent -AYDIN Oktay
-
-#npm install
+AYDIN Oktay
 
 # npm run serve
